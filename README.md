@@ -21,6 +21,6 @@ The directories are course modules, folowing this order:
 - [Week 8](./08-week)
 - [Week 9](./09-week)
 - [Week 10](./10-week)
-- [Final project](./FinalProject)
+- [Final project](https://github.com/lincolnvs/squad-3-ad-data-science)
 
 Each session have more details about contents and activities that was presented and developed. It contains the projects and some notebooks with tutorials and tasks made.
